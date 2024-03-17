@@ -6,7 +6,7 @@ This minesweeper game is a classic implementation of the popular puzzle game whe
 
 ## Languages Used
 
-<img src="https://github.com/onandiskeen/Minesweeper/assets/46636543/b75d3c16-5602-4b29-b239-7b7104469442" alt="java-logo-1" width="200" height="200">
+<img src="https://github.com/onandiskeen/Minesweeper/assets/46636543/b75d3c16-5602-4b29-b239-7b7104469442" alt="java-logo-1" width="100" height="100">
 
 ## Authors
 
